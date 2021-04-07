@@ -1,5 +1,7 @@
 # Neural Style Transfer
 
+![Alt text](./poster.jpg?raw=true "Neural Style Transfer Poster")
+
 Neural Style Transfer is process of incorporating the semantic content information
 from one image and the style features of another image to create a hybrid image.
 The goal of this project was to recreate Gatys et al.’s Neural Style Transfer algorithm using VGG-19 and test how images of different complexity for content and
