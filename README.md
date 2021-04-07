@@ -17,6 +17,7 @@ the Neural Transfer Style space.
 Check out the file [`Neural_Style_Transfer_Final_Report.pdf`](/Neural_Style_Transfer_Final_Report.pdf) for a more in-depth discussion!
 
 ### Poster
+
 ![Alt text](./poster.jpg?raw=true "Neural Style Transfer Poster")
 
 
